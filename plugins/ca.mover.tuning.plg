@@ -1,12 +1,12 @@
 <?xml version='1.0' standalone='yes'?>
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "ca.mover.tuning">
-<!ENTITY author    "Andrew Zawadzki Modified by hugenbdd">
+<!ENTITY author    "Metril">
 <!ENTITY version   "2022.04.13">
 <!ENTITY md5       "b188a114d0928f7290f2e3e74fa3425f">
 <!ENTITY launch    "Settings/Scheduler">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
-<!ENTITY github    "hugenbd/ca.mover.tuning">
+<!ENTITY github    "metril/ca.mover.tuning">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/master/plugins/&name;.plg">
 ]>
 
